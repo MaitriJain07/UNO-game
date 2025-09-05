@@ -25,8 +25,8 @@ Uno card game built in Python using Object-Oriented Programming (OOP) concepts.
 - The first player to empty their hand wins.
 
 Example commands during play:
-  Enter card index or 0 to draw: 3
-  You played: Red 5
+- Enter card index or 0 to draw: 3
+- You played: Red 5
 
 ## Code structure overview
 
